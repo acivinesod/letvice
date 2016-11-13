@@ -14,6 +14,8 @@
 
 [Stranica za letvice ](http://www.acivinesod.com/letvice/Letvice.html)
 
+[Cost Model](https://github.com/acivinesod/letvice/blob/master/Cost_Model_Letvice.pdf)
+
 Linija za glodanje :
 
 ![CNC](https://github.com/acivinesod/letvice/blob/master/cnc_1.jpg)

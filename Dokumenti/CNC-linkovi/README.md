@@ -1,6 +1,6 @@
 Slike CNC strojeva
 
-Ovo je smjer u kome treba ići [https://youtu.be/hSOm_LYu3ns]
+[Ovo je smjer u kome treba ići..] [https://youtu.be/hSOm_LYu3ns]
 ![](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC-linkovi/CNC_3.png)
 
 

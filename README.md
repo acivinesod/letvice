@@ -1,5 +1,5 @@
 # letvice
-Letvice za ogradu
+Letvice za ogradu - Team: Ivica Došen, Alen MIšir i Goran Vidaković 
 
 [Vremenska linija događanja ](https://github.com/acivinesod/letvice/blob/master/Time%20line)
 

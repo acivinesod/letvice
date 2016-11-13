@@ -1,8 +1,7 @@
-Slijedeći sastanak: 14 - 16. 11. 2016.
+# Slijedeći sastanak: 14 - 16. 11. 2016.
 
 
-# letvice
-Letvice za ogradu - Team: Ivica Došen, Alen MIšir i Goran Vidaković 
+## Letvice za ogradu 
 
 | Team          | Prezime i ime |Funkcija |
 |---|---|---|

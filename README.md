@@ -1,4 +1,4 @@
-# Slijedeći sastanak: 14 - 16. 11. 2016.
+# Slijedeći sastanak: Alen & Ico 15. 11. 2016.
 
 
 ## Letvice za ogradu 

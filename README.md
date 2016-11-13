@@ -16,7 +16,7 @@
 
 [Cost Model](https://github.com/acivinesod/letvice/blob/master/Dokumenti/Cost_Model_Letvice.pdf)
 
-[CNC likovi i slike ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC%20linkovi)
+[CNC likovi i slike ](https://github.com/acivinesod/letvice/tree/master/Dokumenti/CNC-linkovi)
 
 Linija za glodanje :
 

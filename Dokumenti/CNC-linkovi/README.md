@@ -1,12 +1,12 @@
 Slike CNC strojeva
 
 Ovo je smjer u kome treba ići [https://youtu.be/hSOm_LYu3ns]
-![](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC%20linkovi/CNC_3.png)
+![](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNN-linkovi/CNC_3.png)
 
 
 
-![CNC likovi i slike ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC%20linkovi/CNC_1.png)
+![CNC likovi i slike ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNN-linkovi/CNC_1.png)
 
-![CNC likovi i slike ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC%20linkovi/CNC_2.png)
+![CNC likovi i slike ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNN-linkovi/CNC_2.png)
 
 [Pogledaj kako radi....](https://youtu.be/oWAAoqkpuBg)

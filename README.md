@@ -10,15 +10,15 @@
 | 3.            | Vidaković Goran  | Elektronika CNC |
 
 
-[Vremenska linija događanja ](https://github.com/acivinesod/letvice/blob/master/Time%20line)
+[Vremenska linija događanja ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/Time%20line)
 
 [Stranica za letvice ](http://www.acivinesod.com/letvice/Letvice.html)
 
-[Cost Model](https://github.com/acivinesod/letvice/blob/master/Cost_Model_Letvice.pdf)
+[Cost Model](https://github.com/acivinesod/letvice/blob/master/Dokumenti/Cost_Model_Letvice.pdf)
 
 Linija za glodanje :
 
-![CNC](https://github.com/acivinesod/letvice/blob/master/cnc_1.jpg)
+![CNC](https://github.com/acivinesod/letvice/blob/master/Dokumenti/cnc_1.jpg)
 
 
 

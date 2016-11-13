@@ -6,7 +6,7 @@ Letvice za ogradu
 Slika ograde :
 
 Inline-style: 
-![CNC](https://github.com/letvice/cnc_1.jpg)
+![CNC](letvice/cnc_1.jpg)
 
 
 

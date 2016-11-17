@@ -10,3 +10,6 @@ Slike CNC strojeva
 ![CNC likovi i slike ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC-linkovi/CNC_2.png)
 
 [Pogledaj kako radi....](https://youtu.be/oWAAoqkpuBg)
+
+
+![ Glodalo za predpripremu.... ](https://youtu.be/AtTcrCQAnmA)

@@ -14,4 +14,4 @@ Slike CNC strojeva
 
 ![ Glodalo za predpripremu.... ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC-linkovi/glodalo.jpg)
 
-[Pogledaj kako radi....](https://youtu.be/AtTcrCQAnmA)
+[Pogledaj kako radi u 1:35 ....](https://youtu.be/AtTcrCQAnmA)

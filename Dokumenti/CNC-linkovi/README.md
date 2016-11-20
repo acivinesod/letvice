@@ -16,4 +16,6 @@ Slike CNC strojeva
 
 [Pogledaj kako radi u 1:35 ....](https://youtu.be/AtTcrCQAnmA)
 
+![ Vakuum držanje predmeta.... ](https://github.com/acivinesod/letvice/blob/master/Dokumenti/CNC-linkovi/vakuum.png)
+
 [Pogledaj kako radi u 1:35 ....](https://youtu.be/fOrkvPF0pro)
